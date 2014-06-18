@@ -1,0 +1,11 @@
+<xml>
+
+    <files id="native-toolkit-stb_image">
+
+        <compilerflag value="-I${NATIVE_TOOLKIT_PATH}/stb_image/include/"/>
+
+        <file name="${NATIVE_TOOLKIT_PATH}/stb_image/stb_image.c" />
+
+    </files>
+
+</xml>
