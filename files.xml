@@ -4,7 +4,7 @@
 
         <compilerflag value="-I${NATIVE_TOOLKIT_PATH}/stb_image/include/"/>
 
-        <file name="${NATIVE_TOOLKIT_PATH}/stb_image/stb_image.c" />
+        <file name="${NATIVE_TOOLKIT_PATH}/stb_image/src/stb_image.c" />
 
     </files>
 
